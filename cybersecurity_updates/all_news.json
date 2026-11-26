@@ -556,11 +556,31 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+    "link": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+    "published": "Thu, 26 Nov 2026 08:32:10 +0000",
+    "summary": "<p>A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed.</p>\n<p>The post <a href=\"https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/\">1Password Breach Exposes Customer Data, Internal Source Code</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Phishing"
       ]
     }
   },
@@ -577,12 +597,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-129245",
         "CVE-2026-129243",
         "CVE-2026-129242",
-        "CVE-2026-120705",
-        "CVE-2026-129245",
         "CVE-2026-129244",
-        "CVE-2026-120704"
+        "CVE-2026-120704",
+        "CVE-2026-120705"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -696,8 +716,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-46300",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-46300"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -717,8 +737,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-132165",
         "CVE-2026-118539",
+        "CVE-2026-132165",
         "CVE-2026-9082"
       ],
       "threat_categories": [
@@ -741,29 +761,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
-    "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
-    "published": "Tue, 24 Nov 2026 16:32:56 +0000",
-    "summary": "<p>The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts.</p>\n<p>The post <a href=\"https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/\">VMware Updates Patch Critical ESX, vCenter Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-123903",
-        "CVE-2026-123910",
-        "CVE-2026-123912",
-        "CVE-2026-123911"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -951,8 +948,8 @@
       "cves": [
         "CVE-2026-113862",
         "CVE-2026-118146",
-        "CVE-2026-118148",
-        "CVE-2026-124194"
+        "CVE-2026-124194",
+        "CVE-2026-118148"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1539,6 +1536,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Securing Employees&rsquo; AI Use Requires a Unified Architecture",
+    "link": "https://www.crowdstrike.com/en-us/blog/securing-employees-ai-use-requires-unified-architecture/",
+    "published": "Nov 25, 2026 00:00:00-0800",
+    "summary": "",
+    "analysis": {
+      "issue": "Falcon Guardian brings together complementary security mechanisms to deliver visibility, protection, and response across AI interactions and agent activity",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Reprioritizing Automated Leads with CrowdStrike Signal",
     "link": "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/",
     "published": "Nov 24, 2026 00:00:00-0800",
@@ -1681,24 +1696,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
-    "published": "Nov 10, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },

@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-26 07:44:50 UTC
+**Last Updated:** 2026-11-26 08:45:46 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -276,22 +276,31 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
 
-### 31. [Two Newly Disclosed GeoServer Vulnerabilities Under Attack](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/)
+### 31. [1Password Breach Exposes Customer Data, Internal Source Code](https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/)
+
+**Source:** Security Week  
+**Published:** Thu, 26 Nov 2026 08:32:10 +0000  
+**Severity:** High  
+**Categories:** Data Breach, Vulnerability, Phishing  
+
+---
+
+### 32. [Two Newly Disclosed GeoServer Vulnerabilities Under Attack](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 15:27:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-129243, CVE-2026-129242, CVE-2026-120705, CVE-2026-129245, CVE-2026-129244, CVE-2026-120704  
+**CVEs:** CVE-2026-129245, CVE-2026-129243, CVE-2026-129242, CVE-2026-129244, CVE-2026-120704, CVE-2026-120705  
 **Categories:** Vulnerability  
 
 ---
 
-### 32. [ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties](https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/)
+### 33. [ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties](https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 14:15:25 +0000  
@@ -300,7 +309,7 @@
 
 ---
 
-### 33. [US Treasury’s FinCEN Disconnects Systems Following Cyber Incident](https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/)
+### 34. [US Treasury’s FinCEN Disconnects Systems Following Cyber Incident](https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 13:39:21 +0000  
@@ -309,7 +318,7 @@
 
 ---
 
-### 34. [Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget](https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/)
+### 35. [Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget](https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 13:30:00 +0000  
@@ -318,7 +327,7 @@
 
 ---
 
-### 35. [Plagiarism Checker Turnitin Investigating Cyberattack](https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/)
+### 36. [Plagiarism Checker Turnitin Investigating Cyberattack](https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 10:40:07 +0000  
@@ -327,7 +336,7 @@
 
 ---
 
-### 36. [Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library](https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/)
+### 37. [Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library](https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 09:05:13 +0000  
@@ -337,42 +346,32 @@
 
 ---
 
-### 37. [Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls](https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/)
+### 38. [Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls](https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 08:12:24 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-46300, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-46300  
 **Categories:** Vulnerability  
 
 ---
 
-### 38. [Drupal Flaw Found by Anthropic Scanner Exploited in Attacks](https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/)
+### 39. [Drupal Flaw Found by Anthropic Scanner Exploited in Attacks](https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 08:01:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-132165, CVE-2026-118539, CVE-2026-9082  
+**CVEs:** CVE-2026-118539, CVE-2026-132165, CVE-2026-9082  
 **Categories:** Vulnerability  
 
 ---
 
-### 39. [An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says](https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/)
+### 40. [An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says](https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Nov 2026 22:41:58 +0000  
 **Severity:** Critical  
 **Categories:** General Security  
-
----
-
-### 40. [VMware Updates Patch Critical ESX, vCenter Vulnerabilities](https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Tue, 24 Nov 2026 16:32:56 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-123903, CVE-2026-123910, CVE-2026-123912, CVE-2026-123911  
-**Categories:** Vulnerability  
 
 ---
 
@@ -463,7 +462,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-113862, CVE-2026-118146, CVE-2026-118148, CVE-2026-124194  
+**CVEs:** CVE-2026-113862, CVE-2026-118146, CVE-2026-124194, CVE-2026-118148  
 **Categories:** Vulnerability  
 
 ---
@@ -752,7 +751,16 @@
 
 ---
 
-### 82. [Reprioritizing Automated Leads with CrowdStrike Signal](https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/)
+### 82. [Securing Employees&rsquo; AI Use Requires a Unified Architecture](https://www.crowdstrike.com/en-us/blog/securing-employees-ai-use-requires-unified-architecture/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Nov 25, 2026 00:00:00-0800  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 83. [Reprioritizing Automated Leads with CrowdStrike Signal](https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 24, 2026 00:00:00-0800  
@@ -761,7 +769,7 @@
 
 ---
 
-### 83. [Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/)
+### 84. [Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 19, 2026 00:00:00-0600  
@@ -771,7 +779,7 @@
 
 ---
 
-### 84. [NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/)
+### 85. [NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 19, 2026 00:00:00-0600  
@@ -780,7 +788,7 @@
 
 ---
 
-### 85. [CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/)
+### 86. [CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 18, 2026 00:00:00-0800  
@@ -789,7 +797,7 @@
 
 ---
 
-### 86. [CrowdStrike Brings the Human Advantage to AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/)
+### 87. [CrowdStrike Brings the Human Advantage to AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 18, 2026 00:00:00-0600  
@@ -798,7 +806,7 @@
 
 ---
 
-### 87. [Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models](https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/)
+### 88. [Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models](https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 16, 2026 00:00:00-0600  
@@ -807,7 +815,7 @@
 
 ---
 
-### 88. [Inside Falcon AI Gateway: One Control Point for AI Traffic](https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/)
+### 89. [Inside Falcon AI Gateway: One Control Point for AI Traffic](https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 13, 2026 00:00:00-0600  
@@ -816,21 +824,12 @@
 
 ---
 
-### 89. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
+### 90. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 12, 2026 00:00:00-0600  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 90. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Nov 10, 2026 00:00:00-0600  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
