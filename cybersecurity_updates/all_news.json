@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+    "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+    "published": "Thu, 26 Nov 2026 12:32:34 +0530",
+    "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild.\n\nThe vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states",
+    "analysis": {
+      "issue": "Drupal patches an actively exploited core flaw that could allow site takeover on certain sites with remotely accessible installers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+    "published": "Thu, 26 Nov 2026 12:14:46 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week.\n\nThe Mitel MiCollab vulnerabilities are listed below -\n\n\n  CVE-2026-133275 (CVSS score: 5.3) - An arbitrary file upload vulnerability in the Audio, Web and",
+    "analysis": {
+      "issue": "CISA adds 10 exploited flaws to its KEV catalog, including five in Mitel MiCollab, and warns of an unpatched Danfoss controller flaw",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+    "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+    "published": "Thu, 26 Nov 2026 09:50:22 +0530",
+    "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed.\n\n\"While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a",
+    "analysis": {
+      "issue": "1Password says an attacker stole customer account data and source code via a compromised employee GitHub account, but vaults were unaffected",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+    "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+    "published": "Thu, 26 Nov 2026 09:18:52 +0530",
+    "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.\n\n\"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher Kush Pandya said in a technical write-up. \"In the versions we analyzed, building or running a",
+    "analysis": {
+      "issue": "13 malicious NuGet packages target Windows",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
     "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
     "published": "Wed, 25 Nov 2026 18:18:54 +0530",
@@ -108,74 +180,42 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
-    "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
-    "published": "Wed, 25 Nov 2026 12:20:19 +0530",
-    "summary": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world.\n\nThe intrusion activity, tracked by GreyNoise under the moniker GreyNoise Threat 13 (GT13), is assessed to have targeted organizations in the financial services, energy, government,",
+    "source": "Bleeping Computer",
+    "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+    "published": "Wed, 25 Nov 2026 17:05:09 -0500",
+    "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
     "analysis": {
-      "issue": "GreyNoise links a campaign affecting 22 organizations and targeting Check Point Management servers to suspected AI-driven offensive tooling",
+      "issue": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-46300",
+        "CVE-2026-109619",
+        "CVE-2026-109618"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-    "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-    "published": "Wed, 25 Nov 2026 12:07:06 +0530",
-    "summary": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts.\n\nThe attacks have targeted financial services, healthcare, and legal services located in the U.S., the U.K., and Australia. Other targets include construction,",
+    "source": "Bleeping Computer",
+    "title": "1Password customer data stolen after employee GitHub account breach",
+    "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+    "published": "Wed, 25 Nov 2026 16:33:33 -0500",
+    "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
     "analysis": {
-      "issue": "Com-affiliated hackers use vishing, session hijacking, and unauthorized MFA enrollment to steal corporate cloud data and extort victims",
+      "issue": "1Password has disclosed a data breach after an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
-    "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-    "published": "Wed, 25 Nov 2026 11:51:12 +0530",
-    "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account.\n\nThe WordPress plugins team has proactively detected and blocked the threat before it could be officially released. Visiting each plugin listing now",
-    "analysis": {
-      "issue": "WordPress blocked malicious releases of six WP Connect plugins containing backdoors designed to enable arbitrary code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-    "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-    "published": "Tue, 24 Nov 2026 22:24:07 +0530",
-    "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.\n\nCentral to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise framework that's a reimplementation of",
-    "analysis": {
-      "issue": "Iran-aligned Volant Manticore targets Cyprus and Saudi Arabia using the IPFS-based KuboShell backdoor and a reworked MuddyWater framework",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "Data Breach"
       ]
     }
   },
@@ -331,43 +371,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Rackspace shuts down Spot cloud platform after security breach",
-    "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-    "published": "Tue, 24 Nov 2026 16:37:30 -0500",
-    "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
-    "analysis": {
-      "issue": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Inception extortion gang launches large-scale vishing campaign",
-    "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-    "published": "Tue, 24 Nov 2026 15:21:20 -0500",
-    "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-    "analysis": {
-      "issue": "A newly formed data extortion group named ‘Inception’ has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
       ]
     }
   },
@@ -553,8 +556,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -574,11 +577,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-129245",
-        "CVE-2026-129244",
+        "CVE-2026-129243",
         "CVE-2026-129242",
         "CVE-2026-120705",
-        "CVE-2026-129243",
+        "CVE-2026-129245",
+        "CVE-2026-129244",
         "CVE-2026-120704"
       ],
       "threat_categories": [
@@ -693,8 +696,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-46300"
+        "CVE-2026-46300",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -714,9 +717,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-9082",
+        "CVE-2026-132165",
         "CVE-2026-118539",
-        "CVE-2026-132165"
+        "CVE-2026-9082"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -754,10 +757,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-123911",
         "CVE-2026-123903",
+        "CVE-2026-123910",
         "CVE-2026-123912",
-        "CVE-2026-123910"
+        "CVE-2026-123911"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -946,10 +949,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-118146",
-        "CVE-2026-124194",
         "CVE-2026-113862",
-        "CVE-2026-118148"
+        "CVE-2026-118146",
+        "CVE-2026-118148",
+        "CVE-2026-124194"
       ],
       "threat_categories": [
         "Vulnerability"
