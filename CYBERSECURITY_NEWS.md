@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-27 00:43:24 UTC
+**Last Updated:** 2026-11-27 07:44:16 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories](https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html)
+### 1. [Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators](https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 27 Nov 2026 11:34:20 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 2. [Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access](https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 27 Nov 2026 11:18:20 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories](https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Nov 2026 01:09:57 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware](https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html)
+### 4. [North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware](https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Nov 2026 20:43:41 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls](https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html)
+### 5. [Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls](https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Nov 2026 16:27:55 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach](https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html)
+### 6. [1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach](https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Nov 2026 16:27:25 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation](https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html)
+### 7. [Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation](https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Nov 2026 12:32:34 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products](https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html)
+### 8. [Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products](https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Nov 2026 12:14:46 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps](https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html)
+### 9. [13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps](https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Nov 2026 09:18:52 +0530  
@@ -67,30 +85,12 @@
 
 ---
 
-### 8. [Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains](https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html)
+### 10. [Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains](https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Nov 2026 18:18:54 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 9. [U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion](https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 25 Nov 2026 18:00:08 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Credential Remediation Is Slow When You Don’t Know What Will Break](https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 25 Nov 2026 17:21:48 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -144,7 +144,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Nov 2026 17:05:09 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-46300, CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618, CVE-2026-46300  
 **Categories:** Vulnerability  
 
 ---
@@ -273,12 +273,21 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
 
-### 31. [FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’](https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/)
+### 31. [SAP Confirms Cyberattack, Source Code Reportedly Compromised](https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/)
+
+**Source:** Security Week  
+**Published:** Fri, 27 Nov 2026 07:36:14 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 32. [FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’](https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Nov 2026 17:06:55 +0000  
@@ -287,7 +296,7 @@
 
 ---
 
-### 32. [Critical Juniper Session Smart Conductor Flaw Exploited in Attacks](https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/)
+### 33. [Critical Juniper Session Smart Conductor Flaw Exploited in Attacks](https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Nov 2026 13:04:06 +0000  
@@ -297,17 +306,17 @@
 
 ---
 
-### 33. [Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks](https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/)
+### 34. [Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks](https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Nov 2026 11:35:25 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-133275, CVE-2026-133324, CVE-2026-133323, CVE-2026-133311, CVE-2026-133303  
+**CVEs:** CVE-2026-133303, CVE-2026-133311, CVE-2026-133324, CVE-2026-133323, CVE-2026-133275  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [Drupal Installer Patch Left a Gap Attackers Are Already Exploiting](https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/)
+### 35. [Drupal Installer Patch Left a Gap Attackers Are Already Exploiting](https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Nov 2026 09:12:26 +0000  
@@ -317,7 +326,7 @@
 
 ---
 
-### 35. [1Password Breach Exposes Customer Data, Internal Source Code](https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/)
+### 36. [1Password Breach Exposes Customer Data, Internal Source Code](https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Nov 2026 08:32:10 +0000  
@@ -326,17 +335,17 @@
 
 ---
 
-### 36. [Two Newly Disclosed GeoServer Vulnerabilities Under Attack](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/)
+### 37. [Two Newly Disclosed GeoServer Vulnerabilities Under Attack](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 15:27:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-120704, CVE-2026-129244, CVE-2026-120705, CVE-2026-129243, CVE-2026-129245, CVE-2026-129242  
+**CVEs:** CVE-2026-129245, CVE-2026-120704, CVE-2026-129242, CVE-2026-129243, CVE-2026-129244, CVE-2026-120705  
 **Categories:** Vulnerability  
 
 ---
 
-### 37. [ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties](https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/)
+### 38. [ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties](https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 14:15:25 +0000  
@@ -345,7 +354,7 @@
 
 ---
 
-### 38. [US Treasury’s FinCEN Disconnects Systems Following Cyber Incident](https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/)
+### 39. [US Treasury’s FinCEN Disconnects Systems Following Cyber Incident](https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 13:39:21 +0000  
@@ -354,21 +363,12 @@
 
 ---
 
-### 39. [Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget](https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/)
+### 40. [Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget](https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 13:30:00 +0000  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 40. [Plagiarism Checker Turnitin Investigating Cyberattack](https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/)
-
-**Source:** Security Week  
-**Published:** Wed, 25 Nov 2026 10:40:07 +0000  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -459,7 +459,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-124194, CVE-2026-113862, CVE-2026-118148, CVE-2026-118146  
+**CVEs:** CVE-2026-124194, CVE-2026-118148, CVE-2026-118146, CVE-2026-113862  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+    "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+    "published": "Fri, 27 Nov 2026 11:34:20 +0530",
+    "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday.\n\nThree of the attacks targeted critical infrastructure operators, and two of those succeeded, with no major disruptions reported. The victims have not been named, and it is not known who is",
+    "analysis": {
+      "issue": "Switzerland confirms its first five cyberattacks using AI agents, four of which succeeded, including two against critical infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+    "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+    "published": "Fri, 27 Nov 2026 11:18:20 +0530",
+    "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution.\n\nThe proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, has been tracked as 4HTTP2SHELL and 4HTTP2ROOT.\n\n\"I found a path from a fresh, unauthenticated HTTP session to command execution as the Cacti server",
+    "analysis": {
+      "issue": "31 zero-day PoC demonstrates unauthenticated remote code execution in four HTTP requests when guest access is enabled",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
     "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
     "published": "Fri, 27 Nov 2026 01:09:57 +0530",
@@ -145,42 +181,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-    "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-    "published": "Wed, 25 Nov 2026 18:00:08 +0530",
-    "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline.\n\nThe bureau collects suspicious activity reports and other Bank Secrecy Act (BSA) filings from banks and other financial",
-    "analysis": {
-      "issue": "Treasury's FinCEN confirms unauthorized access to a limited subset of its systems and takes some systems offline as a precaution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-    "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-    "published": "Wed, 25 Nov 2026 17:21:48 +0530",
-    "summary": "TL;DR\n\n\n  More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break.\n  Validity-only triage misses 46% of critical secrets: Prioritize by impact instead, weighing what a credential can access and whether it leaked publicly, and update the",
-    "analysis": {
-      "issue": "GitGuardian finds 64% of valid secrets discovered in 2022 still worked in January 2026, while validity-only triage misses 46% of critical secrets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
@@ -286,9 +286,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-46300",
+        "CVE-2026-109619",
         "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-46300"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -551,10 +551,29 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+    "link": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+    "published": "Fri, 27 Nov 2026 07:36:14 +0000",
+    "summary": "<p>SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/\">SAP Confirms Cyberattack, Source Code Reportedly Compromised  </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
         "Vulnerability"
       ]
     }
@@ -610,11 +629,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-133275",
+        "CVE-2026-133303",
+        "CVE-2026-133311",
         "CVE-2026-133324",
         "CVE-2026-133323",
-        "CVE-2026-133311",
-        "CVE-2026-133303"
+        "CVE-2026-133275"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -675,12 +694,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-120704",
-        "CVE-2026-129244",
-        "CVE-2026-120705",
-        "CVE-2026-129243",
         "CVE-2026-129245",
-        "CVE-2026-129242"
+        "CVE-2026-120704",
+        "CVE-2026-129242",
+        "CVE-2026-129243",
+        "CVE-2026-129244",
+        "CVE-2026-120705"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -740,24 +759,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
-    "link": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
-    "published": "Wed, 25 Nov 2026 10:40:07 +0000",
-    "summary": "<p>The edtech company says the systems are fully operational and safe to use while it investigates the incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/\">Plagiarism Checker Turnitin Investigating Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The edtech company says the systems are fully operational and safe to use while it investigates the incident",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
       ]
     }
   },
@@ -944,9 +945,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-124194",
-        "CVE-2026-113862",
         "CVE-2026-118148",
-        "CVE-2026-118146"
+        "CVE-2026-118146",
+        "CVE-2026-113862"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1300,8 +1301,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
