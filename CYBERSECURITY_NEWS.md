@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-27 18:22:40 UTC
+**Last Updated:** 2026-11-27 20:57:13 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,25 @@
 
 ---
 
-### 11. [Unpatched Cacti zero-day with public PoC gives remote code execution](https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/)
+### 11. [pCloud confirms password manager hack after suspicious login alerts](https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 27 Nov 2026 14:26:04 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [New Boston Scientific data breach exposes personal, medical info](https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 27 Nov 2026 13:57:42 -0500  
+**Severity:** Low  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 13. [Unpatched Cacti zero-day with public PoC gives remote code execution](https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Nov 2026 12:06:13 -0500  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [US Air Force cloud platform reportedly hacked in latest federal breach](https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/)
+### 14. [US Air Force cloud platform reportedly hacked in latest federal breach](https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Nov 2026 10:09:40 -0500  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. [Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs](https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/)
+### 15. [Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs](https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Nov 2026 10:00:10 -0500  
@@ -121,7 +139,7 @@
 
 ---
 
-### 14. [Malwarebytes Antivirus: Get 50% off during Black Friday 2026](https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/)
+### 16. [Malwarebytes Antivirus: Get 50% off during Black Friday 2026](https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Nov 2026 09:22:06 -0500  
@@ -130,7 +148,7 @@
 
 ---
 
-### 15. [Microsoft removes WSUS server role in Windows Server 2028](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/)
+### 17. [Microsoft removes WSUS server role in Windows Server 2028](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Nov 2026 06:18:36 -0500  
@@ -139,7 +157,7 @@
 
 ---
 
-### 16. [Drupal warns of new site takeover flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/)
+### 18. [Drupal warns of new site takeover flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Nov 2026 05:10:15 -0500  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [SAP confirms security incident after suspicious GitHub activity](https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/)
+### 19. [SAP confirms security incident after suspicious GitHub activity](https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Nov 2026 04:56:36 -0500  
@@ -158,31 +176,12 @@
 
 ---
 
-### 18. [Microsoft pushes emergency hotpatch to fix Windows Server crashes](https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/)
+### 20. [Microsoft pushes emergency hotpatch to fix Windows Server crashes](https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Nov 2026 04:08:16 -0500  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 19. [New NFS2ROOT Linux flaw can let attackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 27 Nov 2026 03:06:58 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-99362  
-**Categories:** Vulnerability  
-
----
-
-### 20. [OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 26 Nov 2026 16:06:22 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -301,7 +300,7 @@
 **Source:** Security Week  
 **Published:** Fri, 27 Nov 2026 07:44:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-133555, CVE-2026-130411, CVE-2026-129514, CVE-2026-124283  
+**CVEs:** CVE-2026-130411, CVE-2026-129514, CVE-2026-124283, CVE-2026-133555  
 **Categories:** Data Breach, Vulnerability, Supply Chain  
 
 ---
@@ -339,7 +338,7 @@
 **Source:** Security Week  
 **Published:** Thu, 26 Nov 2026 11:35:25 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-133311, CVE-2026-133323, CVE-2026-133303, CVE-2026-133275, CVE-2026-133324  
+**CVEs:** CVE-2026-133275, CVE-2026-133303, CVE-2026-133323, CVE-2026-133311, CVE-2026-133324  
 **Categories:** Vulnerability  
 
 ---
@@ -368,7 +367,7 @@
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 15:27:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-129243, CVE-2026-129245, CVE-2026-129242, CVE-2026-120705, CVE-2026-120704, CVE-2026-129244  
+**CVEs:** CVE-2026-129242, CVE-2026-120705, CVE-2026-129244, CVE-2026-120704, CVE-2026-129243, CVE-2026-129245  
 **Categories:** Vulnerability  
 
 ---
@@ -460,7 +459,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118146, CVE-2026-118148, CVE-2026-113862, CVE-2026-124194  
+**CVEs:** CVE-2026-118148, CVE-2026-118146, CVE-2026-113862, CVE-2026-124194  
 **Categories:** Vulnerability  
 
 ---
@@ -832,70 +831,70 @@
 
 ---
 
-### 91. [CISA Adds 10 Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog)
+### 91. [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog)
+
+**Source:** Cisa Alerts  
+**Published:** Fri, 27 Nov 26 12:00:00 +0000  
+
+---
+
+### 92. [CISA Adds 10 Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog)
 
 **Source:** Cisa Alerts  
 **Published:** Wed, 25 Nov 26 12:00:00 +0000  
 
 ---
 
-### 92. [AutomationDirect C-More EA9 Programming Software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01)
+### 93. [AutomationDirect C-More EA9 Programming Software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 24 Nov 26 12:00:00 +0000  
 
 ---
 
-### 93. [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)
+### 94. [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 24 Nov 26 12:00:00 +0000  
 
 ---
 
-### 94. [Schneider Electric EcoStruxure Power Build Rapsody software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02)
+### 95. [Schneider Electric EcoStruxure Power Build Rapsody software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 24 Nov 26 12:00:00 +0000  
 
 ---
 
-### 95. [Danfoss AK-SM 8xxA Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03)
+### 96. [Danfoss AK-SM 8xxA Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 24 Nov 26 12:00:00 +0000  
 
 ---
 
-### 96. [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)
+### 97. [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 
 **Source:** Cisa Alerts  
 **Published:** Mon, 23 Nov 26 12:00:00 +0000  
 
 ---
 
-### 97. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog)
+### 98. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 
 **Source:** Cisa Alerts  
 **Published:** Fri, 20 Nov 26 12:00:00 +0000  
 
 ---
 
-### 98. [Elecbrakes EB2, VM1, ELBC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02)
+### 99. [libumqtt](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03)
 
 **Source:** Cisa Alerts  
 **Published:** Thu, 19 Nov 26 12:00:00 +0000  
 
 ---
 
-### 99. [Autonomy Logic OpenPLC Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01)
-
-**Source:** Cisa Alerts  
-**Published:** Thu, 19 Nov 26 12:00:00 +0000  
-
----
-
-### 100. [libumqtt](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03)
+### 100. [Elecbrakes EB2, VM1, ELBC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02)
 
 **Source:** Cisa Alerts  
 **Published:** Thu, 19 Nov 26 12:00:00 +0000  
