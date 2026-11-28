@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-27 20:57:13 UTC
+**Last Updated:** 2026-11-28 07:12:12 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -162,7 +162,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Nov 2026 05:10:15 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-136716, CVE-2026-132165  
+**CVEs:** CVE-2026-132165, CVE-2026-136716  
 **Categories:** Vulnerability  
 
 ---
@@ -300,7 +300,7 @@
 **Source:** Security Week  
 **Published:** Fri, 27 Nov 2026 07:44:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-130411, CVE-2026-129514, CVE-2026-124283, CVE-2026-133555  
+**CVEs:** CVE-2026-129514, CVE-2026-133555, CVE-2026-130411, CVE-2026-124283  
 **Categories:** Data Breach, Vulnerability, Supply Chain  
 
 ---
@@ -338,7 +338,7 @@
 **Source:** Security Week  
 **Published:** Thu, 26 Nov 2026 11:35:25 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-133275, CVE-2026-133303, CVE-2026-133323, CVE-2026-133311, CVE-2026-133324  
+**CVEs:** CVE-2026-133323, CVE-2026-133324, CVE-2026-133303, CVE-2026-133275, CVE-2026-133311  
 **Categories:** Vulnerability  
 
 ---
@@ -348,7 +348,7 @@
 **Source:** Security Week  
 **Published:** Thu, 26 Nov 2026 09:12:26 +0000  
 **Severity:** Low  
-**CVEs:** CVE-2026-136716, CVE-2026-132165  
+**CVEs:** CVE-2026-132165, CVE-2026-136716  
 **Categories:** Vulnerability  
 
 ---
@@ -367,7 +367,7 @@
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 15:27:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-129242, CVE-2026-120705, CVE-2026-129244, CVE-2026-120704, CVE-2026-129243, CVE-2026-129245  
+**CVEs:** CVE-2026-120704, CVE-2026-129243, CVE-2026-129244, CVE-2026-129242, CVE-2026-120705, CVE-2026-129245  
 **Categories:** Vulnerability  
 
 ---
@@ -459,7 +459,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118148, CVE-2026-118146, CVE-2026-113862, CVE-2026-124194  
+**CVEs:** CVE-2026-113862, CVE-2026-118146, CVE-2026-124194, CVE-2026-118148  
 **Categories:** Vulnerability  
 
 ---
@@ -654,7 +654,7 @@
 **Source:** Malwarebytes  
 **Published:** Fri, 27 Nov 2026 14:53:16 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-136716, CVE-2026-132165  
+**CVEs:** CVE-2026-132165, CVE-2026-136716  
 **Categories:** Vulnerability, Phishing  
 
 ---
